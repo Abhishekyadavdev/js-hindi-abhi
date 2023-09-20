@@ -14,9 +14,10 @@
 // console.log(myarr.includes(9));
 // console.log(myarr.indexOf(9));
 // console.log(myarr);
-// const newarr=myarr.join()
+// const newarr=myarr.join("*")
 // console.log(newarr);
-
+const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+console.log(fruits.sort());
 
 
 
